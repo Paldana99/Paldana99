@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hola! :star_struck:
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/p-aldana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
 </div>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paldana99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Paldana99/Paldana99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
