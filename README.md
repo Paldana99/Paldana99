@@ -8,7 +8,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paldana99&layout=compact&theme=vision-friendly-dark&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paldana99&layout=compact&theme=vision-friendly-dark&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Paldana99/Paldana99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
